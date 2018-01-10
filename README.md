@@ -1,1 +1,2 @@
 # aws-wordpresstest
+wordpresstest
